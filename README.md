@@ -1,5 +1,12 @@
 # Yeah,Nan0in here.
+## 🔍Some brief information
+a student from China university now.Quite interested in learning cybersecurity now.I'm using and improving `C` `C++` and `Rust` languages,also I'm getting used to `python`.
+A mug and RPG/other independent games' lover.I'm just started joining github.
 
+## Action
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0in&show_icons=true&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nan0in&size_weight=0.4&count_weight=0.5)
 <!--
 **nan0in/nan0in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
