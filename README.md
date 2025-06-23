@@ -1,8 +1,8 @@
 # Yeah,Nan0in here.
 ## 🔍Some brief information
 0RAYS team| hdu help | 2:D member  
-a student from China university now.Quite interested in learning cybersecurity now.I'm using and improving `C` `C++` and `Rust` languages,also I'm getting used to `python`.
-A mug and RPG/other independent games' lover.I'm just started joining github.
+a student from China university now.Quite interested in learning cybersecurity now.I'm using and improving `C` `C++` and `Rust` ,also I'm getting used to `python`.
+A mug and RPG/other independent games' lover.I've just started joining github.
 
 ## Action
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0in&show_icons=true&theme=dracula)
