@@ -1,7 +1,7 @@
 # Yeah,Nan0in here.
 ## 🔍Some brief information
 0RAYS team| hdu help | 2:D member  
-a student from Chinese university now.Quite interested in learning cybersecurity now.I'm using and improving `C` `C++` and `Rust` ,also I'm getting used to `python`.
+a student from Chinese university now.Quite interested in learning cybersecurity and computer science now.I'm using and improving `C` `C++` and `Rust` ,also I'm getting used to `python`.
 A mug and RPG/other independent games' lover.I've just started joining github.
 I'm learning cybersecurity on pwn and forensics...
 
