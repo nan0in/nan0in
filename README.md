@@ -4,11 +4,6 @@
 a student from Chinese university now.Quite interested in learning cybersecurity and computer science now.I'm using and improving `C` `C++` and `Rust` ,also I'm getting used to `python`.
 A mug and RPG/other independent games' lover.I've just started joining github.
 I'm learning cybersecurity on pwn and forensics...
-
-## Action
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0in)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nan0in&size_weight=0.4&count_weight=0.5)
 <!--
 **nan0in/nan0in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
