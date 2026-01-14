@@ -6,7 +6,7 @@ A mug and RPG/other independent games' lover.I've just started joining github.
 I'm learning cybersecurity on pwn and forensics...
 
 ## Action
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0in&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nan0in)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nan0in&size_weight=0.4&count_weight=0.5)
 <!--
