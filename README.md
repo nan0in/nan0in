@@ -1,9 +1,10 @@
-# Yeah,Nan0in here.
+# Welcome,Nan0in here.
 ## 🔍Some brief information
 0RAYS team| hdu help | 2:D member  
 a student from Chinese university now.Quite interested in learning cybersecurity and computer science now.I'm using and improving `C` `C++` and `Rust` ,also I'm getting used to `python`.
 A mug and RPG/other independent games' lover.I've just started joining github.
-I'm learning cybersecurity on pwn and forensics...
+I'm learning cybersecurity on pwn/reverse and forensics...  
+el psy kongroo
 <!--
 **nan0in/nan0in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
